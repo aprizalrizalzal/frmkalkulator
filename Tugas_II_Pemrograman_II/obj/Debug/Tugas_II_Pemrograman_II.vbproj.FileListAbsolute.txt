@@ -1,0 +1,12 @@
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\bin\Debug\Tugas_II_Pemrograman_II.exe.config
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\bin\Debug\Tugas_II_Pemrograman_II.exe
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\bin\Debug\Tugas_II_Pemrograman_II.pdb
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\bin\Debug\Tugas_II_Pemrograman_II.xml
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\obj\Debug\Tugas_II_Pemrograman_II.vbprojAssemblyReference.cache
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\obj\Debug\Tugas_II_Pemrograman_II.frmkalkulator.resources
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\obj\Debug\Tugas_II_Pemrograman_II.Resources.resources
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\obj\Debug\Tugas_II_Pemrograman_II.vbproj.GenerateResource.cache
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\obj\Debug\Tugas_II_Pemrograman_II.vbproj.CoreCompileInputs.cache
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\obj\Debug\Tugas_II_Pemrograman_II.exe
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\obj\Debug\Tugas_II_Pemrograman_II.xml
+C:\Users\Apri Zal\source\repos\Tugas_II_Pemrograman_II\Tugas_II_Pemrograman_II\obj\Debug\Tugas_II_Pemrograman_II.pdb
